@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: 스페이스 엘비스
 permalink: /about
 comments: false
 image: assets/images/screenshot.jpg
 imageshadow: true
 ---
 
-오랫동안 '시각적 쾌감'을 넓히는 VFX작업을 해왔습니다.<br>
+오랫동안 '시각적 쾌감'을 넓히는 VFX 작업을 해왔습니다.<br>
 대상은 단가를 정해주는 클라이언트 였습니다.<br><br>
 
 최근까지는 '직관적 이해 '을 돕기 위해서 설익은 기술로 이런저런 시도들을 하였습니다.<br>
@@ -20,6 +20,4 @@ imageshadow: true
 ‌그것이 우리가  프로젝트에 접근하는 Atitude입니다.<br><br>
 
 ‌그리고 그 시도를 '스페이스 엘비스' 라고 부르기로 했습니다.<br>
-
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
 
