@@ -3,7 +3,7 @@ layout: page
 title: Well, we're gonna rock. We're gonna rock. Let's rock. Come on and rock. We're gonna rock all our blues away.
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/space.jpg
 imageshadow: true
 ---
 
