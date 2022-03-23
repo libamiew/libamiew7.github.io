@@ -21,5 +21,5 @@ imageshadow: true
 
 ‌그리고 그 시도를 '스페이스 엘비스' 라고 부르기로 했습니다.<br>
 
-<a target="_blank" href="https://https://elviss.co.kr/index#" class="btn btn-dark"> Go to SpaceElvis Page &rarr;</a>
+<a target="_blank" href="https://elviss.co.kr/index#" class="btn btn-dark"> Go to SpaceElvis Page &rarr;</a>
 
