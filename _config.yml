@@ -2,8 +2,8 @@
 name: "Space Elvis News Letter"
 title: "Space Elvis News Letter"
 description: "Space Elvis News Letter"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/startup.png'
+favicon: 'assets/images/startup.png'
 baseurl: https://libamiew.github.io/
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
