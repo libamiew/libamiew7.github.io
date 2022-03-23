@@ -14,11 +14,12 @@ $enable-rounded: false;
 @import "bootstrap/mixins";
 @import 'bootstrap/bootstrap';
 @import 'stars';
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
 
 
 // general
 body, input, button, select, optgroup, textarea {   
-    font-family:Sen;
+    font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', Pretendard, Roboto, 'Noto Sans KR', 'Segoe UI', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
 }
 body {
     line-height:1.7;
@@ -57,7 +58,7 @@ h1,h2,h3,h4,h5,h6 {
     min-width: 180px;
 }
 blockquote {
-    font-family: Times New Roman;
+    font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', Pretendard, Roboto, 'Noto Sans KR', 'Segoe UI', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
     font-style: italic;
     font-size: 20px;
     position:relative;
@@ -488,7 +489,7 @@ img, img:hover {
         line-height: 1;
         padding: 2px 3px;
         width: 150px;
-        font-family: Arial;
+        font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', Pretendard, Roboto, 'Noto Sans KR', 'Segoe UI', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
         text-align: center;
         border-radius: 3px;
         transition: all .4s;
