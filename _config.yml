@@ -15,13 +15,13 @@ email: wowthemesnet@gmail.com
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    name: 이주연
+    display_name: 주연
+    avatar: 'assets/images/avatar-ju.png'
+    email: jubamiew@elviss.co.kr
+    web: 
+    twitter: 
+    description: "미디어사업본부 이주연입니당"
   john:
     name: John
     display_name: John    
